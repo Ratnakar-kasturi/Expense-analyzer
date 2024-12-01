@@ -1,2 +1,2 @@
-# Expensive-analyzer
+# Expense-analyzer
 Expense Analyzer application with  the help of the Tkinter
